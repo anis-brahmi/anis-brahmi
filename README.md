@@ -1,22 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-Languages and tools section
-For the heading, add the following code to README.md:
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
-We’ll add images representing technologies and skills one holds. You can find several free logos for many languages and tools in the DevIcons GitHub Repository.
-
-Go to the icons folder and search and open the react folder. You’ll find images in SVG and EPS format. Click on any image and copy the URL shown in the browser’s address bar.
-
-DevIcons react logo
-We’ll use this URL in the <img> tag and specify the height and width attribute accordingly. Similarly, you can search for other skills and add them in separate <img> tags.
-
-Append the below code to README.md. Add/remove the necessary skills you want in your profile:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
