@@ -12,124 +12,159 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div># GitSavvy
-
-[![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
-![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
-
-Sublime Text plugin providing probably all git has to offer:
-
-- basic Git functionality; `init`, `add`, `commit`, `amend`, `checkout`, `pull`, `push`, etc.
-- special views for status, branches, and tags.  Try `git: status`
-- a superb "Repo History", like `gitk`, just with more features; try `git: Repo History`.  
-- Rebasing just from that "Repo History".  Edit a commit, reword a commit, autosquash commits, apply a fixup, whatever...  the `[r]` menu
-- a "Line History", just select something in a view and search the Command Palette for `git: Line History`
-- likewise a "File History"
-- `git diff` view, allowing user to stage, unstage and reset (discard) files, hunks or individual lines
-- fixup/squash helpers everywhere, for example from the "Line History" 
-- GitHub integration
-    + issue/collaborator referencing when committing
-    + opening the current file or a commit on GitHub at the selected line
-    + make a new PR from the current branch
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="285" viewBox="0 0 300 285" fill="none" role="img" aria-labelledby="descId">
+        <title id="titleId"/>
+        <desc id="descId"/>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #fe428e;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #a9fef7;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
     
-- GitHub-style blame view, showing hunk metadata and ability to view the commit that made the change
 
+          
+    /* Animations */
+    @keyframes scaleInAnimation {
+      from {
+        transform: translate(-5px, 5px) scale(0);
+      }
+      to {
+        transform: translate(-5px, 5px) scale(1);
+      }
+    }
+    @keyframes fadeInAnimation {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  
+          
+        </style>
 
-**Note:** GitSavvy requires Git versions at or greater than 2.18.0.
+        
 
-**Note:** Sublime Text 2 is not supported.  Also, GitSavvy takes advantage of modern features of Sublime Text (like annotations).  For the best experience, use the latest Sublime Text _dev_ build.  Or not, I mean it could also crash you, what am I to recommend here.
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#141321" stroke-opacity="1"/>
 
+        
+      <g data-testid="card-title" transform="translate(25, 35)">
+        <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
+    </g>
+      </g>
+    
 
-## Documentation
-
-The documentation is probably outdated.  Yeah it's sad but you can contribute and I will eventually get onto it **but** every special view has help available, just press `?`.
-
-Feature documentation can be found [here](docs/README.md).  It can also be accessed from within Sublime by opening the command palette and typing `GitSavvy: help`.
-
-
-## Highlights
-
-<table>
-    <tr>
-        <th>Inline-diff</th>
-        <th>Status dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">(Un)stage and revert individual lines and hunks.</td>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Branch dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">View and manipulate local and remote branches.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Github integration</th>
-        <th>Rebase dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.</td>
-        <td width="50%"> Squash, edit, move, rebase, undo, redo.</td>
-    </tr>
-</table>
-
-
-## Installation
-
-### Simple
-
-1. Install the [Sublime Text Package Control](https://packagecontrol.io/) plugin if you don't have it already.
-2. Open the command palette and start typing `Package Control: Install Package`.
-3. Enter `GitSavvy`.
-
-
-### Less simple
-
-If you want more control over what you pull down, or if you'd like to submit changes to GitSavvy, you should pull down the repository directly in the Packages folder and restart the editor.  You still have to run `Package Control: Satisfy Dependencies` after that!
+        <g data-testid="main-card-body" transform="translate(0, 55)">
+          
+    <svg data-testid="lang-items" x="25">
+      <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
+      <text x="215" y="34" class="lang-name">57.92%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <svg data-testid="lang-progress" width="57.92%">
+        <rect height="8" fill="#f1e05a" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 750ms;"/>
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 40)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
+      <text x="215" y="34" class="lang-name">23.43%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <svg data-testid="lang-progress" width="23.43%">
+        <rect height="8" fill="#e34c26" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 900ms;"/>
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 80)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
+      <text x="215" y="34" class="lang-name">7.98%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <svg data-testid="lang-progress" width="7.98%">
+        <rect height="8" fill="#563d7c" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 1050ms;"/>
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 120)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">PHP</text>
+      <text x="215" y="34" class="lang-name">6.48%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <svg data-testid="lang-progress" width="6.48%">
+        <rect height="8" fill="#4F5D95" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 1200ms;"/>
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 160)">
+    <g class="stagger" style="animation-delay: 1050ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Shell</text>
+      <text x="215" y="34" class="lang-name">4.18%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"/>
+      <svg data-testid="lang-progress" width="4.18%">
+        <rect height="8" fill="#89e051" rx="5" ry="5" x="0" y="0" class="lang-progress" style="animation-delay: 1350ms;"/>
+      </svg>
+    </svg>
+  
+    </g>
+  </g>
+    </svg>
+  
+        </g>
+      </svg>
 
 
