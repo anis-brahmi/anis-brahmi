@@ -6,10 +6,6 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=anis-brahmi" alt="anis-brahmi"/></a></p>
-
-<p align="left"><a href="https://twitter.com/" target="blank"><img
-                src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a></p>
-
 - 🔭 I’m currently working on [menzzo](https://www.menzzo.fr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anis-brahmi](https://github.com/anis-brahmi)
@@ -59,13 +55,5 @@
             href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=anis-brahmi&show_icons=true&locale=en&layout=compact"
-        alt="anis-brahmi"/></p>
-
-<p>&nbsp;<img align="center"
-              src="https://github-readme-stats.vercel.app/api?username=anis-brahmi&show_icons=true&locale=en"
-              alt="anis-brahmi"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-brahmi&" alt="anis-brahmi"/></p>
