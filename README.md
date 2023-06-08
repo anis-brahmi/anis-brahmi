@@ -5,7 +5,7 @@
                      alt="anis-brahmi"/></p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=anis-brahmi&title=Followers" alt="anis-brahmi"/></a></p>
+                src="https://github-profile-trophy.vercel.app/?username=anis-brahmi&title=Commits" alt="anis-brahmi"/></a></p>
 - 🔭 I’m currently working on [menzzo](https://www.menzzo.fr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anis-brahmi](https://github.com/anis-brahmi)
