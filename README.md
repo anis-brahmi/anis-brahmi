@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Anis</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+# GitHub Profile Weekly Recap
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=anis-brahmi&label=Profile%20views&color=0e75b6&style=flat"
-                     alt="anis-brahmi"/></p>
+## Week of [Insert Date]
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=anis-brahmi&title=Commits" alt="anis-brahmi"/></a></p>
-- 🔭 I’m currently working on [menzzo](https://www.menzzo.fr)
+### 📈 **Profile Summary**
+- **Repositories Contributed To**: [Number of Repos]
+- **Commits Pushed**: [Total Commits]
+- **Pull Requests Merged**: [Number of PRs Merged]
+- **Issues Closed**: [Number of Issues Resolved]
+- **Code Reviews Provided**: [Number of Reviews]
 
-- 👨‍💻 All of my projects are available at [https://github.com/anis-brahmi](https://github.com/anis-brahmi)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/anis-brahmi-926782139" target="blank"><img align="center"
-                                                                                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                                                alt="anis-brahmi-926782139" height="30"
-                                                                                width="40"/></a>
-</p>
+### 🛠️ **Key Project Contributions**
+#### 1. **[Repository Name 1]**
+- **Role**: [e.g., Lead Developer, Contributor]
+- **Focus**: [e.g., Performance Optimization, New Feature Development]
+- **Highlights**:
+   - Improved [specific feature] by reducing [resource consumption, load times, etc.] by [X%].
+   - Refactored [module/component] to enhance [scalability/readability/maintainability].
+   - Integrated [technology or framework] for improved [functionality/performance].
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img
-    src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank"
-   rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-        alt="laravel" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"
-   rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs" width="40" height="40"/> </a>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"
-                                                            rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40"/> </a> <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"
-                                                               rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"
-                                                             rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-             alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-             width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40"
-                height="40"/> </a> <a
-            href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                alt="typescript" width="40" height="40"/> </a> </p>
+#### 2. **[Repository Name 2]**
+- **Role**: [e.g., Architect, Contributor]
+- **Focus**: [e.g., Bug Fixing, Security Enhancements]
+- **Highlights**:
+   - Resolved [critical issue] impacting [functionality/security/performance].
+   - Implemented [new feature] that streamlined [specific process] and added value to [end users, stakeholders].
+   - Conducted thorough unit and integration testing, achieving [X%] test coverage.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-brahmi&" alt="anis-brahmi"/></p>
+---
+
+### 🚀 **Strategic Contributions & Open-Source Involvement**
+- **Notable Open Source Contribution**: [Repository or Project Name]
+  - Implemented [new feature/enhancement], which was highly requested by the community.
+  - Assisted in a major release by providing feedback and reviewing [X number] of PRs.
+- **Cross-Project Collaboration**: Worked with [team/collaborators] on [specific open-source project], contributing to the architecture and deployment strategy.
+
+---
+
+### 🔍 **Technology Stack Utilized**
+- **Languages**: [e.g., PHP, JavaScript, Python, etc.]
+- **Frameworks & Libraries**: [e.g., Symfony, Laravel, Vue.js, React, etc.]
+- **Tools**: [e.g., Docker, Jenkins, PHPUnit, etc.]
+
+---
+
+### 📅 **Goals for the Upcoming Week**
+- **Performance Tuning**: Continue to optimize [specific system or project] to achieve [measurable improvement, such as lower latency, increased throughput].
+- **Security Enhancements**: Focus on addressing any [security vulnerabilities, conducting code audits] to improve the robustness of [project].
+- **Mentorship & Code Reviews**: Provide guidance and feedback to junior developers, ensuring code quality and knowledge sharing across the team.
+- **New Technologies**: Research and begin implementation of [new technology, framework, or tool] to enhance [project/process].
+
+---
+
+### 🎯 **Long-Term Vision**
+- **Architectural Improvements**: Begin drafting the blueprint for refactoring [major system/component] to ensure scalability for future growth.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Plan and start integrating CI/CD pipelines for [project] to streamline deployment processes.
+- **Open-Source Leadership**: Continue to provide leadership and guidance in [specific open-source community], fostering collaboration and innovation.
+
+---
+
+_This recap reflects a high-level overview of my professional contributions and impact within the week. Looking forward to the challenges and achievements in the upcoming week!_
