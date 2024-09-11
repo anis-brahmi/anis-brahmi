@@ -1,91 +1,82 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Hi there, I'm Anis Brahmi 👋
 
-### <div align="center">I'm Axel, a seasoned full-stack developer with a passion for Magento and Laravel 🚀</div>  
+Welcome to my GitHub profile! I'm a self-taught and independent Web Developer and Technical Lead with extensive experience in building large-scale projects. I have a strong passion for technology, coding, and continuous learning.
 
-- 🔭 I’m currently working on integrating `lazysizes` into Magento 2 and optimizing backend processes for various eCommerce projects  
-- 🌱 I’m currently exploring the latest features in Symfony and improving my Docker Compose setups  
-- ❓ Ask me about anything related to Magento 2, Laravel, Symfony, Vue.js, and Docker  
-- ⚡ Fun fact: I prefer using `getProjectDir()` for defining file paths in Symfony commands
+---
 
-<br/>  
+## 🌱 About Me
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- 💼 **Current Role**: Technical Lead Full Stack Developer.
+- 💡 I thrive in building robust, scalable web applications using modern frameworks and technologies.
+- 🌍 Fluent in both French and English, I’m eager to collaborate on international projects.
+- ⚡ Fun fact: I'm passionate about creating efficient and scalable software solutions for real-world problems.
 
-### Frontend  
-<div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/jquery-original.svg" alt="jQuery" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🛠️ Technical Skills
 
-### Backend  
-<div align="center">  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/symfony-original.svg" alt="Symfony" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/laravel-plain.svg" alt="Laravel" height="50" /></a>  
-<a href="https://magento.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/magento-original.svg" alt="Magento" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
+### **Languages & Frameworks**
 
-</td><td valign="top" width="33%">
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ReactJs](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![VueJs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
 
-### DevOps  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/docker-original.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
+### **Tools & Platforms**
 
-</td></tr></table>  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<br/>  
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/your-github-username" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+## 📈 GitHub Stats
 
-<br/>  
+| <a href="https://github.com/anis-brahmi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anis-brahmi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anis's GitHub stats" /></a> | <a href="https://github.com/anis-brahmi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-brahmi&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![GitHub Streak](https://streak-stats.demolab.com?user=anis-brahmi&theme=radical&hide_border=true)
 
-<br/>  
+---
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your README file. 
-<!-- BLOG-POST-LIST:END -->  
+## 🐍 Contribution Snake
 
-<br/>  
+![Contribution Snake Animation](https://github.com/anis-brahmi/anis-brahmi/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&&style=flat-square" align="center" />
-</div>  
+---
 
-<br/>  
+## 🚀 Featured Projects
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/your-coffee-link" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+1. **Marketing Platform**: Redesign of a leading marketing influence platform, focusing on robust and scalable architecture.
+2. **ERP for E-commerce Sales**: Development and management of an ERP system for e-commerce solutions using Laravel, VueJS, and Magento integration.
+3. **Auto School Management Application**: A complete management solution for driving schools, including back-office and API development using Laravel.
+4. **Syndicate Portal with Member Space**: Developed a Laravel-based portal with online payment integration and data migration.
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: [Anis Brahmi](#)
+- 📧 Email: [anis@example.com](mailto:anis@example.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Your latest blog post 1](#)
+- [Your latest blog post 2](#)
+- [Your latest blog post 3](#)
+<!-- BLOG-POST-LIST:END -->
+
+Thanks for visiting my GitHub profile! Have a great day! 😊
+
