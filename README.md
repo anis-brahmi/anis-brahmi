@@ -1,6 +1,6 @@
 # Hi there, I'm Anis Brahmi 👋
 
-Welcome to my GitHub profile! I'm a self-taught and independent Web Developer and Technical Lead with extensive experience in building large-scale projects. I have a strong passion for technology, coding, and continuous learning.
+Welcome to my GitHub profile! I'm a self-taught and independent Web Developer with extensive experience in building large-scale projects. I have a strong passion for technology, coding, and continuous learning.
 
 ---
 
