@@ -34,9 +34,3 @@ Welcome to my GitHub profile! I'm a self-taught and independent Web Developer wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-| <a href="https://github.com/anis-brahmi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anis-brahmi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anis's GitHub stats" /></a> | <a href="https://github.com/anis-brahmi/github-readme-stats"><
